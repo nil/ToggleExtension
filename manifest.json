@@ -3,7 +3,7 @@
 
   "name": "Extension Toggle",
   "description": "A minimal framework for toggleextensions",
-  "version": "1.0",
+  "version": "0.2",
 
   "background": {
     "scripts": [
