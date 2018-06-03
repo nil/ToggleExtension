@@ -17,11 +17,11 @@ browser.browserAction.onClicked.addListener((tab) => {
     isScriptExecuted = true;
 
     browser.tabs.executeScript({
-      file: "content-script.js"
+      file: "scripts/content.js"
     });
 
     browser.tabs.insertCSS({
-      file: "content-style.css"
+      file: "styles/content.css"
     })
   };
 

@@ -1,0 +1,16 @@
+#te-panel {
+  display: block;
+  position: fixed;
+  top: 0;
+  left: 10%;
+
+  width: 80%;
+  padding: 1.5em 0;
+  z-index: 999;
+
+  font-size: 16px;
+  text-align: center;
+  border-radius: 0 0 10px 10px;
+  box-shadow: 0 2px 2px rgba(0, 0, 0, 0.3);
+  background: white;
+}
