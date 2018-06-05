@@ -1,6 +1,6 @@
-<div style="margin: 0 auto 2em; max-width: 400px; text-align: center">
-  ![Toggle Extension](https://imgur.com/awkHbHr.png)
-</div>
+<p align="center">
+  <img src="https://imgur.com/awkHbHr.png">
+</p>
 
 Toggle Extension is a cross-browser framework for extensions that enable and disable extra interactive elements, such as tooltips or panels. Its basic code can be easily customized and scaled to create limitless extensions.
 
